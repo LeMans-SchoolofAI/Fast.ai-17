@@ -7,6 +7,7 @@ links to the mooc :
 * http://course.fast.ai 
 * http://wiki.fast.ai 
 * http://files.fast.ai
+* http://forum.fast.ai
 
 github repo :
 * official https://github.com/fastai/courses
