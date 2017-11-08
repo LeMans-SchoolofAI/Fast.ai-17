@@ -4,10 +4,10 @@ our facebook group :
 * https://www.facebook.com/groups/301767026973205/
 
 links to the mooc :
-* http://course.fast.ai 
+* http://course.fast.ai/lessons/lessons.html
 * http://wiki.fast.ai 
 * http://files.fast.ai
-* http://forum.fast.ai
+* http://forums.fast.ai
 
 github repo :
 * official https://github.com/fastai/courses
