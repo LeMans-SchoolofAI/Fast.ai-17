@@ -12,3 +12,6 @@ links to the mooc :
 github repo :
 * official https://github.com/fastai/courses
 * keras 2 compliant https://github.com/roebius/deeplearning_keras2
+
+how to use cheaper spots instances on AWS
+* http://wiki.fast.ai/index.php/AWS_Spot_instances
