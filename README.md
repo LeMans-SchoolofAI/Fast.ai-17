@@ -15,3 +15,7 @@ github repo :
 
 how to use cheaper spots instances on AWS
 * http://wiki.fast.ai/index.php/AWS_Spot_instances
+
+connect your EC2 instance with Putty on windows
+* http://docs.aws.amazon.com/fr_fr/AWSEC2/latest/UserGuide/putty.html
+* tips : recode your private key in putty format
