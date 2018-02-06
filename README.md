@@ -10,8 +10,16 @@ links to the mooc :
 * http://forums.fast.ai
 
 github repo :
-* official https://github.com/fastai/courses
-* keras 2 compliant https://github.com/roebius/deeplearning_keras2
+* official https://github.com/fastai/courses =>>> https://github.com/fastai/fastai [2018]
+
+AWS AMI ready to use
+* Nom d'AMI : Fastai P2 v2 2018 | ID d'AMI : ami-dd1f7da4
+* when accessing it, remember to execute
+cd ~/fastai
+git pull
+source activate fastai
+conda env update
+
 
 how to use cheaper spots instances on AWS
 * http://wiki.fast.ai/index.php/AWS_Spot_instances
