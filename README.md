@@ -15,10 +15,10 @@ github repo :
 AWS AMI ready to use
 * Nom d'AMI : Fastai P2 v2 2018 | ID d'AMI : ami-dd1f7da4
 * when accessing it, remember to execute
-cd ~/fastai
-git pull
-source activate fastai
-conda env update
+   - cd ~/fastai
+   - git pull
+   - source activate fastai
+   - conda env update
 
 
 how to use cheaper spots instances on AWS
